@@ -4,7 +4,7 @@ INSERT INTO tb_endereco (
     numero,
     cep,
     bairro,
-    cidade,
+    cidade, 
     pais,
     complemento
 ) VALUES (
