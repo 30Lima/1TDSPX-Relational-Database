@@ -8,11 +8,11 @@ INSERT INTO tb_endereco (
     pais,
     complemento
 ) VALUES (
-    'TESTE',
-    4232,
-    '01308001',
-    'JARDIM',
-    'SAO PAULO CAPITAL',
+    'RUA JOSÉ VIEIRA MARTINS',
+    1234,
+    01308000,
+    'JARDIM SELMA',
+    'SAO PAULO',
     'BRASIL',
     'CIDADE ADEMAR'
 );
